@@ -1,0 +1,7 @@
+/build
+*/**/obj
+*/**/bin
+*/_ReSharper*
+*.csproj.user
+*ReSharper.user
+*.suo
